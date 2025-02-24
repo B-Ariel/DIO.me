@@ -1,9 +1,10 @@
 # Database-Experience
 **Desafios de projeto do Database Experience da Dio.me**
 
-## Resposta ##
+## Respostas
 
-###Resposta: ###
+### Resposta para o:
+* Refinando um Projeto Conceitual de Banco de Dados – E-COMMERCE *
 
 - Foi escolhido ter duas tabelas para os CLIENTES PJ e PF pelo seguinte motivo:
 Como o PF refere-se a qualquer pessoa como indivíduo, e PJ representa uma entidade formada por um grupo de pessoas, está 
