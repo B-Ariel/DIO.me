@@ -4,7 +4,7 @@
 ## Respostas
 
 ### Resposta para:
-* Refinando um Projeto Conceitual de Banco de Dados – E-COMMERCE
+__Refinando um Projeto Conceitual de Banco de Dados – E-COMMERCE__
 
 1. Foi escolhido ter duas tabelas para os CLIENTES PJ e PF pelo seguinte motivo.
 - Como o PF refere-se a qualquer pessoa como indivíduo, e PJ representa uma entidade formada por um grupo de pessoas, está 
