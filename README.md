@@ -1,10 +1,8 @@
 # Database-Experience
 > Desafios de projeto do Database Experience da Dio.me
 
-### Nome dos projetos:
-
 ---
-
+### Nome do projeto:
 __Refinando um Projeto Conceitual de Banco de Dados – E-COMMERCE__
 
 # Descrição do Desafio
@@ -19,7 +17,7 @@ Entrega – Possui status e código de rastreio;
 
 ___
 
-### Resposta para:
+### Nome do projeto:
 __Construindo um Esquema Conceitual para Banco De dados__
 
 # Descrição do Desafio
