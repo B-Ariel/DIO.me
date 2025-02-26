@@ -1,31 +1,22 @@
 # Database-Experience
-## Respostas
-
-___
-
 > Desafios de projeto do Database Experience da Dio.me
 
-### Resposta para:
-__Refinando um Projeto Conceitual de Banco de Dados – E-COMMERCE__
+### Nome dos projetos:
 
+---
 
-1. Foi escolhido ter duas tabelas para os CLIENTES PJ e PF pelo seguinte motivo.
-- Como o PF refere-se a qualquer pessoa como indivíduo, e PJ representa uma entidade formada por um grupo de pessoas, está 
-mais do que claro que fazer uma separação é a melhor escolha, já que isso facilitaria não só uma leitura mais fácil, mas também 
-um gerenciamento dos usuários e do financeiro, já que existem diversos usuários e diversas formas de pagamento, então a junção
-deles iria criar uma leitura cansativa, já que seria muita informação para ler em uma só entidade.
-Então, como forma de facilitar a leitura e o entendimento do modelo conceitual, foi preferido separar em entidades diferentes.
+< __Refinando um Projeto Conceitual de Banco de Dados – E-COMMERCE__
 
+# Descrição do Desafio
+O esquema deverá ser adicionado a um repositório do Github para futura avaliação do desafio de projeto. Adicione ao Readme a descrição do projeto conceitual para fornecer o contexto sobre seu esquema.
 
-2. Foi escolhido ter uma tabela diferente para o PAGAMENTO pelo seguinte motivo.
-- Como se trata de diversas formas de pagamento e por terem os clientes separados em entidades diferentes, isso iria causar muita
-redundância caso todas essas informações ficassem nas mesmas tabelas dos clientes.
+## <u> Objetivo </u>:
+Refine o modelo apresentado acrescentando os seguintes pontos:
 
-
-3. Foi escolhido ter uma única entidade para o PEDIDO e para ENTREGA pelo seguinte motivo.
-- Como se trata de uma informação muito curta, sensível e única do pedido, a separação iria causar uma redundância da
-informação.
-
+Cliente PJ e PF – Uma conta pode ser PJ ou PF, mas não pode ter as duas informações;
+Pagamento – Pode ter cadastrado mais de uma forma de pagamento;
+Entrega – Possui status e código de rastreio;
+Agora é a sua vez de ser o protagonista! Implemente o desafio sugerido pela expert e suba seu projeto para um repositório próprio, com isso, você aumentará ainda mais seu portfólio de projetos no GitHub!
 ___
 ### Resposta para:
 __Construindo um Esquema Conceitual para Banco De dados__
