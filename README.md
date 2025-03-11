@@ -61,7 +61,7 @@ Assim como demonstrado durante o desafio, realize a criação do Script SQL para
 - Os tópicos supracitados devem estar presentes nas queries;
 - Elabore perguntas que podem ser respondidas pelas consultas;
 - As cláusulas podem estar presentes em mais de uma query;
-_ O projeto deverá ser adicionado a um repositório do Github para futura avaliação do desafio de projeto. Adicione ao Readme a descrição do projeto lógico para fornecer o contexto sobre seu esquema lógico apresentado. _
+_O projeto deverá ser adicionado a um repositório do Github para futura avaliação do desafio de projeto. Adicione ao Readme a descrição do projeto lógico para fornecer o contexto sobre seu esquema lógico apresentado._
 
 ## <u> Objetivo </u>:
 [Relembrando] Aplique o mapeamento para o  cenário:
@@ -73,7 +73,7 @@ _ O projeto deverá ser adicionado a um repositório do Github para futura avali
 - Entrega – Possui status e código de rastreio;
 - Algumas das perguntas que podes fazer para embasar as queries SQL:
 
-_ Quantos pedidos foram feitos por cada cliente? _
+_Quantos pedidos foram feitos por cada cliente?_
 - Algum vendedor também é fornecedor?
 - Relação de produtos fornecedores e estoques;
 - Relação de nomes dos fornecedores e nomes dos produtos;
