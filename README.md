@@ -1,6 +1,7 @@
 # Database-Experience
 > Desafios de projeto do Database Experience da Dio.me
---- <br><br><br>
+---
+<br><br><br><br><br>
 ### Nome do projeto:
 __Refinando um Projeto Conceitual de Banco de Dados – E-COMMERCE__
 
@@ -12,8 +13,12 @@ Refine o modelo apresentado acrescentando os seguintes pontos:
 
 Cliente PJ e PF – Uma conta pode ser PJ ou PF, mas não pode ter as duas informações;
 Pagamento – Pode ter cadastrado mais de uma forma de pagamento;
-Entrega – Possui status e código de rastreio; <br><br><br>
+Entrega – Possui status e código de rastreio;
+
+<br><br><br>
 ___
+<br><br><br>
+
 ### Nome do projeto:
 __Construindo um Esquema Conceitual para Banco De dados__
 
@@ -36,8 +41,9 @@ Os mecânicos possuem código, nome, endereço e especialidade
 Cada OS possui: n°, data de emissão, um valor, status e uma data para conclusão dos trabalhos.
 Agora é a sua vez de ser o protagonista! Implemente o desafio sugerido pela expert e suba seu projeto para um repositório próprio, com isso, você aumentará ainda mais seu portfólio de projetos no GitHub!
 
-___  
-
+<br><br><br>
+___
+<br><br><br>
 
 ### Nome do projeto:
 __Construindo seu Primeiro Projeto Lógico de Banco de Dados__
@@ -76,8 +82,9 @@ _Quantos pedidos foram feitos por cada cliente?_
 - Relação de produtos fornecedores e estoques;
 - Relação de nomes dos fornecedores e nomes dos produtos;
 
-___  
-
+<br><br><br>
+___
+<br><br><br>
 
 ### Nome do projeto:
 __Construa um Projeto Lógico de Banco de Dados do Zero__
@@ -100,3 +107,7 @@ Recuperações simples com SELECT Statement;
 - Os tópicos supracitados devem estar presentes nas queries;
 - Elabore perguntas que podem ser respondidas pelas consultas
 - As cláusulas podem estar presentes em mais de uma query
+
+<br><br><br>
+___
+<br><br><br>
