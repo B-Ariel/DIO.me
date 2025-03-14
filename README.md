@@ -1,6 +1,6 @@
 # Database-Experience
 > Desafios de projeto do Database Experience da Dio.me
---- \ 
+---
 ### Nome do projeto:
 __Refinando um Projeto Conceitual de Banco de Dados – E-COMMERCE__
 
@@ -12,9 +12,9 @@ Refine o modelo apresentado acrescentando os seguintes pontos:
 
 Cliente PJ e PF – Uma conta pode ser PJ ou PF, mas não pode ter as duas informações;
 Pagamento – Pode ter cadastrado mais de uma forma de pagamento;
-Entrega – Possui status e código de rastreio;
+Entrega – Possui status e código de rastreio; \ 
 
-___ \ 
+___
 
 ### Nome do projeto:
 __Construindo um Esquema Conceitual para Banco De dados__
