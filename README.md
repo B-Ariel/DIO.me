@@ -1,8 +1,10 @@
+> OBERSE:  
+> EXPLICAÇÕES MAIS DETALHADAS VÃO / ESTÃO NO MEU [WEBSITE PESSOAL](https://b-ariel.github.io)
+
+
 # Database-Experience
 > Desafios de projeto do Database Experience da Dio.me
 
-> OBERSE:  
-> EXPLICAÇÕES MAIS DETALHADAS VÃO / ESTÃO NO MEU [WEBSITE PESSOAL](https://b-ariel.github.io)
 ---
 <br><br>
 ### Nome do projeto:
