@@ -1,4 +1,4 @@
-> OBERSE:  
+> OBSERVE:  
 > EXPLICAÇÕES MAIS DETALHADAS VÃO / ESTÃO NO MEU [WEBSITE PESSOAL](https://b-ariel.github.io)
 
 
